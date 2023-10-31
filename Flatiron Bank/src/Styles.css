@@ -1,0 +1,17 @@
+*{
+    background-color: wheat;
+    }
+    .Search-bar{
+     margin-bottom: 10px;
+    }
+    
+    button{
+        margin-top: 10px;
+    }
+    table{
+        background-color: black;
+    }
+    h1{
+        background-color: bisque;
+        text-align: center;
+    }
